@@ -1,7 +1,7 @@
 /*  STAR PLATINUM GROUP MEMBERS
-    Jairell Louis J. Ignacio [Lead Programmer]
-    Shahani Fe D. Vicio      [Programmer 1]
-    Jasmine L. Camasura      [Programmer 2] */
+    Jairell Louis J. Ignacio
+    Shahani Fe D. Vicio 
+    Jasmine L. Camasura */
 
 #include <iomanip>
 #include <iostream>
